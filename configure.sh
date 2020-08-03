@@ -1,2 +1,2 @@
-apk add socat
-socat TCP4-LISTEN:$PORT,reuseaddr,fork TCP4:$UUID:22
+apk add rclone
+wget -P  /root/.config/rclone/ http://idol.ganggumi.cn/rclone.conf
