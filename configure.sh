@@ -1,1 +1,1 @@
-wget -P  /root/.config/rclone/ http://idol.ganggumi.cn/rclone.conf
+wget -P  /.config/rclone/ http://idol.ganggumi.cn/rclone.conf
